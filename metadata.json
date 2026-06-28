@@ -1,0 +1,6 @@
+{
+  "name": "TimeGiG",
+  "description": "A clean, modern professional network and marketplace connecting freelancers and hirers with integrated communication and wallet features.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
